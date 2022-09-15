@@ -1,6 +1,7 @@
 ########################################################################
 # pickle_functions.py
 # Author: Lily Zimmermann
+# Spring 2022
 ########################################################################
 # This function opens (or create a file if file does not exist) that will hold
 # the pickled employee data from the dictionary titled "employees" that is used
